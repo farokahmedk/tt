@@ -1,0 +1,6 @@
+*.fig
+*.pdf
+*.md
+*.prettierrc
+*.vscode
+/node_modules
